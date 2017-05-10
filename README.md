@@ -1,9 +1,7 @@
 # ActiveMQ
 
-prerequisites:
-
-org.apache.activemq
-
+prerequisites:         
+org.apache.activemq              
 spring-core, spring-context and spring-jms
 
 These sample will create producer and consumer for ActiveMQ server
